@@ -1,0 +1,219 @@
+
+.topnav {
+  font-size: 40px;
+
+  overflow: hidden;
+  background-color: #69479A;
+  padding-top: 0px;
+  width: 100%;
+  position: relative;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+
+  color: white;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #12173F;
+  color: white;
+  font-weight: bolder;
+
+}
+
+.topnav a.active {
+  background-color: #12173F;
+  color: white;
+  font-weight: bolder;
+
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  padding: 0px;
+  border: 0px;
+  object-fit: none;
+
+}
+.piclogo {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  height: 180px;
+  width: 100%;
+}
+
+.social {
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+
+
+}
+
+.fa {
+  padding: 7px;
+  margin-left: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: white;
+  background: #12173F;
+}
+
+.fa-facebook:hover {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter:hover {
+  background: #55ACEE;
+  color: white;}
+
+.fa-instagram:hover {
+  background: #DD2A7B;
+}
+
+.thetop {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.empty {
+  padding: 50px;
+}
+
+.trial {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  justify-content: flex-start;
+
+}
+
+.trial a {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background: #12173F;
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+
+  text-align: center;
+}
+
+.trial a:hover {
+  background-color: #69479A;
+}
+
+
+main {
+  font-family: Trebuchet MS, sans-serif;
+  color: #12173F;
+}
+
+h1 {
+  font-size: 60px;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 20px;
+}
+
+p {
+  padding: 0px;
+  font-size: 17px;
+}
+
+.mission {
+  text-align: center;
+  width: 50%;
+  height: auto;
+}
+
+#one {
+  display: flex;
+  flex-direction: row;
+}
+
+#sportpic {
+  width: 50%;
+  height: auto;
+}
+
+.trustpilot {
+  width: 80%;
+  height: auto;
+}
+
+footer {
+  background: #69479A;
+  font-family: Trebuchet MS, sans-serif;
+  color: white;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.help {
+text-align: center;
+
+}
+
+.help a{
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.end {
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+h3 {
+  padding: 0px;
+  font-size: 27px;
+  text-align: center;
+  color: #12173F;
+}
+
+.map {
+  width: 100%;
+  height: 200px; }
+
+  form {
+    text-align: center;
+ background-color: #69479A;
+}
+
+.container {
+  padding: 0px;
+  padding-top: 10px;
+ backgroung color: #69479A;
+}
+
+input[type=text], input[type=submit] {
+  width: 20%;
+  padding: 8px;
+  margin: 8px 0;
+  font-familyTrebuchet MS, sans-serif: 
+
+}
